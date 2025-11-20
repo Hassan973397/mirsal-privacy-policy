@@ -9,8 +9,8 @@
 Welcome to **Mirsal** app. We are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, and protect your information when you use the Mirsal app.
 
 **App Name**: Mirsal (مرسال)  
-**Developer Name**: [Developer name as registered in Play Console]  
-**Email**: support@mirsal.com  
+**Developer Name**: Magic.Dev 
+**Email**: magic.iraq412@gmail.com 
 **Website**: https://mirsal.com
 
 ---
@@ -198,9 +198,9 @@ Your information may be transferred to and processed in countries outside your c
 
 If you have any questions or concerns about this Privacy Policy or our privacy practices, please contact us:
 
-**Email**: support@mirsal.com  
+**Email**: hassan3209@gmail.com 
 **Website**: https://mirsal.com  
-**Mailing Address**: [Developer address]
+**Mailing Address**: iraq-najaf
 
 ---
 
